@@ -1,4 +1,4 @@
-# Project Title
+# :cyclone:Node API using TypeScript & Express
 
 This is a Node API starter project. It uses TypeScript. It also uses Express for Routing.
 
